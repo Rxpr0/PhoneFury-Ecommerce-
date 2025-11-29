@@ -15,15 +15,6 @@ The platform allows users to:
 - 👤 View & edit account information  
 - 💳 Checkout using Visa / Mada / Cash on Delivery  
 
-📍 **Developed as a university E-commerce project**  
-👨‍💻 **Team Members:**
-
-| Name | ID |
-|------|------|
-| Hesham Alkatout | 202100659 |
-| Mohammed Alfudail | 202000039 |
-| Sultan Alrashed | 202001362 |
-
 ---
 
 ## 🧠 Table of Contents
@@ -80,25 +71,37 @@ CREATE TABLE Users (
 ```
 ---
 
+## 🖼 Screenshots 
+
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/Rxpr0/Football-Live-Broadcast/raw/main/LoginPage.jpeg" width="90%" alt="Login Page" />
-      <br/><b>Login Page</b>
+        <b>HomePage</b><br/>
+      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/HomePage.jpeg" width="90%" alt="Login Page" />
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/Rxpr0/Football-Live-Broadcast/raw/main/MainPage.jpeg" width="90%" alt="Main Dashboard" />
-      <br/><b>Main Dashboard</b>
+         <b>Registration</b><br/>
+      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/Registration.jpeg" width="90%" alt="Main Dashboard" />
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/Rxpr0/Football-Live-Broadcast/raw/main/LiveBroadcast.jpeg" width="90%" alt="Live Match Stream" />
-      <br/><b>Live Match Stream</b>
+        <b>Login</b><br/>
+      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/Login.jpeg" width="90%" alt="Leaderboard" />
+    </td>
+      <td align="center" style="padding: 10px;">
+          <b>User Information</b><br/>
+      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/UserInfo.jpeg" width="90%" alt="Live Match Stream" />
+    </td>
+  </tr>
+    <tr>
+    <td align="center" style="padding: 10px;">
+        <b>Shopping Cart</b><br/>
+      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/Cart.jpeg" width="90%" alt="Live Match Stream" />
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/Rxpr0/Football-Live-Broadcast/raw/main/LeaderBoard.jpeg" width="90%" alt="Leaderboard" />
-      <br/><b>Leaderboard & Stats</b>
+         <b>Checkout</b><br/>
+      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/Checkout.jpeg" width="90%" alt="Leaderboard" />
     </td>
   </tr>
 </table>
