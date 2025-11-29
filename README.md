@@ -77,31 +77,31 @@ CREATE TABLE Users (
   <tr>
     <td align="center" style="padding: 10px;">
         <b>HomePage</b><br/>
-      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/HomePage.jpeg" width="90%" alt="Login Page" />
+      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/HomePage.jpeg" width="100%" alt="Login Page" />
     </td>
     <td align="center" style="padding: 10px;">
          <b>Registration</b><br/>
-      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/Registration.jpeg" width="90%" alt="Main Dashboard" />
+      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/Registration.jpeg" width="100%" alt="Main Dashboard" />
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 10px;">
         <b>LoginPage</b><br/>
-      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/Login.jpeg" width="90%" alt="Leaderboard" />
+      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/Login.jpeg" width="100%" alt="Leaderboard" />
     </td>
       <td align="center" style="padding: 10px;">
           <b>User Information</b><br/>
-      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/UserInfo.jpeg" width="90%" alt="Live Match Stream" />
+      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/UserInfo.jpeg" width="100%" alt="Live Match Stream" />
     </td>
   </tr>
     <tr>
     <td align="center" style="padding: 10px;">
         <b>Shopping Cart</b><br/>
-      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/Cart.jpeg" width="90%" alt="Live Match Stream" />
+      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/Cart.jpeg" width="100%" alt="Live Match Stream" />
     </td>
     <td align="center" style="padding: 10px;">
          <b>Checkout</b><br/>
-      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/Checkout.jpeg" width="90%" alt="Leaderboard" />
+      <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/Checkout.jpeg" width="100%" alt="Leaderboard" />
     </td>
   </tr>
 </table>
