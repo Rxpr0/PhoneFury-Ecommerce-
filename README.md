@@ -71,7 +71,7 @@ CREATE TABLE Users (
 ```
 ---
 
-## 🖼 Screenshots 
+## 📸 Screenshots 
 
 <table>
   <tr>
