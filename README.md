@@ -86,7 +86,7 @@ CREATE TABLE Users (
   </tr>
   <tr>
     <td align="center" style="padding: 10px;">
-        <b>Login</b><br/>
+        <b>LoginPage</b><br/>
       <img src="https://github.com/Rxpr0/PhoneFury-Ecommerce-/blob/main/Login.jpeg" width="90%" alt="Leaderboard" />
     </td>
       <td align="center" style="padding: 10px;">
